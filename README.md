@@ -1,8 +1,8 @@
 # Hi, I'm Ahmed 👋
 
-I'm an **M.Sc. Computer Science student at DTU** with a background in Software Technology and an interest in **software development, AI, automation, backend systems, and data**.
+I'm an **M.Sc. Computer Science student at DTU** with a B.Sc. in Software Technology and a strong interest in **software development, AI, automation, backend systems, and data-driven applications**.
 
-I enjoy building full-stack applications, working with APIs and real-time systems, and turning technical problems into practical software solutions.
+I enjoy building full-stack applications, working with APIs and real-time systems, and turning technical problems into practical and reliable software solutions.
 
 ## 🛠 Technical Skills
 
@@ -19,41 +19,43 @@ REST APIs · WebSockets · Docker · GitHub Actions · CI/CD · Git · JWT · Li
 
 ### SCOUT — Metaheuristic Optimization Framework
 
+🔗 [View SCOUT on GitHub](https://github.com/GabrielYassine/scout)
+
 **Java · Spring Boot · React · WebSockets · REST APIs · Algorithms**
 
-Full-stack framework for configuring, running, and evaluating metaheuristic optimization experiments.
+Full-stack university project for configuring, running, monitoring, and evaluating metaheuristic optimization experiments.
 
 * Built automated and repeatable experiment workflows
 * Developed REST APIs and WebSocket communication between frontend and backend
 * Implemented asynchronous experiment execution with live progress tracking
-* Worked with algorithms including:
+* Worked with optimization algorithms including:
 
   * (1+1) Evolutionary Algorithm
   * Simulated Annealing
   * Max-Min Ant System
-* Built visualization and analysis of optimization results
+* Built functionality for visualization and analysis of optimization results
 
 ### RoboRally Online
 
 **Java · Spring Boot · React · SQL · REST APIs · WebSockets · Docker · JUnit**
 
-University team project developed in an **agile team of 10 developers**.
+Real-time multiplayer web application developed as a university project in an **agile team of 10 developers**.
 
-* Developed a real-time multiplayer web application
-* Integrated React frontend, Spring Boot backend, and SQL persistence
+* Developed functionality across a React frontend and Spring Boot backend
+* Integrated frontend, backend, and SQL persistence
 * Used REST APIs and WebSockets for communication and real-time synchronization
 * Implemented functionality related to registration, login, user accounts, and application state
-* Worked with Git workflows, code reviews, JUnit testing, Docker, and shared development
+* Worked with Git workflows, code reviews, JUnit testing, Docker, and collaborative development
 
 ### GPS Positioning & Numerical Data Analysis
 
 **Python · NumPy · Matplotlib · Numerical Methods · Linear Algebra**
 
-Numerical computing project focused on GPS positioning using satellite measurement data.
+Numerical computing project focused on estimating GPS receiver positions from satellite measurement data.
 
 * Processed and analyzed numerical data using Python and NumPy
 * Implemented the Gauss-Newton method for estimating receiver position and clock error
-* Applied linear algebra and least-squares methods
+* Applied linear algebra and least-squares methods to measurement data
 * Visualized positioning results and numerical errors using Matplotlib
 
 ## 🎓 Education
