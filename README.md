@@ -45,8 +45,6 @@ University team project developed in an **agile team of 10 developers**.
 * Implemented functionality related to registration, login, user accounts, and application state
 * Worked with Git workflows, code reviews, JUnit testing, Docker, and shared development
 
-> Repository is private due to university/team ownership.
-
 ### GPS Positioning & Numerical Data Analysis
 
 **Python · NumPy · Matplotlib · Numerical Methods · Linear Algebra**
